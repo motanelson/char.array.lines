@@ -33,3 +33,7 @@ def starts(title:str="open file",backgrounds:str="black",foregrounds:str="white"
     apps=myapp(root,title=title,backgrounds=backgrounds,foregrounds=foregrounds,types=types)
     root.mainloop()
     return rets
+
+
+apps=starts(types=".py")
+print(apps)
