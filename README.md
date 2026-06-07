@@ -1,6 +1,2 @@
-https://en.wikipedia.org/wiki/Isaac_Newton
 
-
-
-
-The greatest genius of antiquity lived in a time of darkness and enlightened us all.
+https://youtu.be/tuqQgTb3cmU?si=uIfcFT0xp2SZkTH7
